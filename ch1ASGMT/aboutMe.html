@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            margin: 1em auto;
+            width: 700px; 
+            font-family: "Helvetica Neue","Helvetica", sans-serif;
+            background-color:rgba(255, 255, 255, .5);
+            border-radius: 8px;
+            background: linear-gradient(#f00,#f0f);
+            text-decoration: solid;
+            font-size: large;
+        }
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(#f00,#f0f);
+            clip-path: circle(20% at right 60%);
+        }
+
+        body::after{
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(#2196f3,#e91e63);
+            clip-path: circle(10% at 10% 20%);
+            }
+                    
+        img{
+            width: 300px;
+            height: 350px;
+        }
+        div{
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <head>
+        <h1>
+            Hello 
+            <br>
+            <br>
+            I'm Daniel Gomez, a future Web Developer
+        </h1>     
+    </head>
+    <section>
+        <p>
+            Web development is been a career that has really interested me for a long time, I find it fascinating the things that can be created by coding and then being able to see the final metarialized in a browser as a website or even a mobile app. I think we live in a time where we intereact with applications and websites almost all day everyday, either for work, social life, or even for health reasons, almost any interaction we need to make with others can be canalized through an app, for example banking, it's not necesary to go to the banks in person anymore, many things can be done through an online banking app, like depositing a check, or a doctors appoiment, it can now be though an online interface, created by a web/app developer that lets the patient and a health expert interconnect and discuss in real time without having to be in the same place face to face. My goal is to be able to create applications like these that would make the end user life a bit easier and more practical. 
+        </p>
+        <br>
+        <p>
+            There are many technologies out there that can truly help a developer create a fantastic website or application, theres a great selections of tools, frameworks, libraries and different type of technologies that can turn your code into an amazing project, here is a list of a few. 
+
+            <ul>
+                <li><strong>Bootstrap:</strong> created by twitter to make the design of your website look modern</li>
+                <li><strong>Google Fonts: </strong> an amazing selections of fonts and very easy to use</li>
+                <li><strong>iconmonstr:</strong> here you can find almost any icon you need for your site, free and simple to use.</li>
+            </ul>
+
+        </p>
+        <br>
+        <p>
+            As I learn more and more about Web Development I can see that there are endless positbilities when it comes to creativity, I consider Web Design an art, yes some websites are simple, and maybe they are simple because they don't need to be too fancy, it all depends on the purpose of the Website or application, but there are so many websites and applications that are truly a work of art, the designs are flawless and captivating, not only that bu they work perfectly and efficiently, easy to navigate and very clear with the content. 
+        </p>
+        <h2> Sample pictures of fascinating artistic Web Pages</h2>
+        <div>        
+           <a target="_blank" href="https://thec8.com/"><img src="imgs/1.png" alt="website landing page photo"></a> 
+        </div>
+        <div>
+           <a target="_blank" href="https://flipaclip.com/"><img  src="imgs/2.png" alt="website landing page photo"></a> 
+        </div>
+        
+
+    </section>
+</body>
+</html>
