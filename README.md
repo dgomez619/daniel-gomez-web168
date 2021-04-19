@@ -17,9 +17,14 @@ Web Development 168
 <h1><a href="03_box_model_start_completed.html">Chapter 3 - Box Model (completed)</a></h1>
 <br>
 <h1><a href="box_model_challenge\index.html">Chapter 3 - Box Model Challange</a></h1>
+<br>
 <h1>Chapter 4 Assigments</h1>
 <a href='Chapter 4\04_web_typography.html'>Web Typography</a>|| 
 <a href='Chapter 4\moon.html'>Moon</a>|| 
+<br>
+<h1>Chapter 5 Assigments</h1>
+<a href='Chapter 5\start\04_multiple_bgs.html.html'>Multiple Background Images</a>|| 
+<a href='Chapter 5\start\05_box_shadow.html.html'>Box Shadow Property</a>|| 
 
 
 
