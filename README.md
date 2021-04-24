@@ -25,7 +25,9 @@ Web Development 168
 <h1>Chapter 5 Assigments</h1>
 <a href='Chapter 5\start\04_multiple_bgs.html.html'>Multiple Background Images</a>|| 
 <a href='Chapter 5\start\05_box_shadow.html.html'>Box Shadow Property</a>|| 
-
+<h1>Chapter 6 Assigment & Extra Credit</h1>
+<a href='Chapter 6\index.html'>Flexbox Layout</a>|| 
+<a href='Chapter 6\stayWild.html'>Stay Wild Extra Credit</a>||
 
 
 
