@@ -28,6 +28,9 @@ Web Development 168
 <h1>Chapter 6 Assigment & Extra Credit</h1>
 <a href='Chapter 6\index.html'>Flexbox Layout</a>|| 
 <a href='Chapter 6\stayWild.html'>Stay Wild Extra Credit</a>||
+<h1>Chapter 7 Assigments</h1>
+<a href='Chapter 7\index.html'>Flexbox Layout Practice</a>|| 
+<a href='Chapter 7\gridBiz\index.html'>Responsive Grid CSS Website Layout</a>||
 
 
 
