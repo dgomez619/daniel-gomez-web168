@@ -31,6 +31,9 @@ Web Development 168
 <h1>Chapter 7 Assigments</h1>
 <a href='Chapter 7\index.html'>Flexbox Layout Practice</a>|| 
 <a href='Chapter 7\gridBiz\index.html'>Responsive Grid CSS Website Layout</a>||
+<h1>Chapter 8 Assigments</h1>
+<a href='Chapter 8\whaleShark.html'>Whale Shark - Responsive Design</a>|| 
+<a href='Chapter 8\skeleton-grid-system\index.html'>Skeleton Grid Design</a>||
 
 
 
