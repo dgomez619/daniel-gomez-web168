@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,WAAW,EAAE,0BAA0B;CAC1C;;AAED,AAAA,EAAE,AAAA,UAAU,CAAA;EACR,KAAK,EAAE,MAAM;EACb,aAAa,EAAE,GAAG,CAAC,MAAM,CAAC,qBAAkB;EAC5C,cAAc,EAAE,GAAG;EACnB,MAAM,EAAE,MAAM;CACjB;;AAED,AAAA,IAAI,AAAA,UAAU,CAAA;EACV,SAAS,EAAE,KAAK;CACnB",
+    "sources": [
+        "subscribe.scss"
+    ],
+    "names": [],
+    "file": "subscribe.css"
+}
