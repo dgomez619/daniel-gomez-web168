@@ -1,0 +1,15 @@
+.subscribe {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+h2.subscribe {
+  color: purple;
+  border-bottom: 2px dotted rgba(75, 74, 74, 0.5);
+  padding-bottom: 4px;
+  margin: 25px 0;
+}
+
+form.subscribe {
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=subscribe.css.map */

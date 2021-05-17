@@ -39,6 +39,8 @@ Web Development 168
 <a href='Bootstrap\index.html'>Bootstrap</a>||
 <h1>Chapter 9</h1>
 <a href='Chapter 9\table.html'>TABLE AND FORM</a>|| 
+<h1>Chapter 10</h1>
+<a href='Chapter 10\transitions-animations.html'>Animations</a>|| 
 
 
 
