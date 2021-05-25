@@ -41,6 +41,8 @@ Web Development 168
 <a href='Chapter 9\table.html'>TABLE AND FORM</a>|| 
 <h1>Chapter 10</h1>
 <a href='Chapter 10\transitions-animations.html'>Animations</a>|| 
+<h1>Chapter 11</h1>
+<a href='Chapter 11\index.html'>SVG Essentials</a>|| 
 
 
 
