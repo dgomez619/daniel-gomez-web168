@@ -43,6 +43,8 @@ Web Development 168
 <a href='Chapter 10\transitions-animations.html'>Animations</a>|| 
 <h1>Chapter 11</h1>
 <a href='Chapter 11\index.html'>SVG Essentials</a>|| 
+<h1>Final Project</h1>
+<a href='Final\Final.html'>FINAL - WEBDEV 168</a>|| 
 
 
 

@@ -2,15 +2,13 @@ body{
     background: #333;
 }
 
-.boxK{
-    background: white;
-    width: 200px;
-    height: 200px;
+.dg{    
     position: relative;
     animation-name: myanimation;
     animation-duration: 4s;
     animation-iteration-count:2;
-    animation-fill-mode: forwards;    }
+    animation-fill-mode: forwards;
+}
 
 @keyframes myanimation {
     0% {background-color: white; left :0px; top: 0px; border-radius: 0 0 0 0;}
